@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @CortlyExplosion
-- 👀 I’m interested how to leran programming  
-- 🌱 I’m currently learning js
+- 👀 I’m interested in Software Development 
 - 📫 How to reach me ...
 
 <!---

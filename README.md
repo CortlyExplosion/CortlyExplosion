@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CortlyExplosion
 - 👀 I’m interested in Software Development 
-- 📫 How to reach me ...
+- 📫 You can reach me on Discord with the name: CortlyExplosion
 
 <!---
 CortlyExplosion/CortlyExplosion is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

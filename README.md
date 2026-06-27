@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CortlyExplosion
+- 👋 Hi, I’m Dennis
 - 👀 I’m interested in Software Development 
 - 📫 You can reach me on Discord with the name: CortlyExplosion
 
